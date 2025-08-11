@@ -1,0 +1,77 @@
+<<<<<<< HEAD
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android related
+/android/.gradle/
+android/.idea/
+android/local.properties
+android/.cxx/
+android/app/debug.keystore
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# Others
+*.log
+pubspec.lock
+=======
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android related
+/android/.gradle/
+android/.idea/
+android/local.properties
+android/.cxx/
+android/app/debug.keystore
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# Others
+*.log
+pubspec.lock
+>>>>>>> 544872b (Initial commit of Task-Reminder app)
