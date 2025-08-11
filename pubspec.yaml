@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 name: flutter_app
 description: A new Flutter project.
 
@@ -54,4 +54,3 @@ flutter:
 
   assets:
     - assets/reminder_sound.mp3
->>>>>>> 544872b (Initial commit of Task-Reminder app)
